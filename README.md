@@ -5,6 +5,13 @@
   <strong>Card-not-present payment terminal for micro-merchants.</strong><br>
   Go &nbsp;·&nbsp; Stripe &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Caddy &nbsp;·&nbsp; Docker Swarm
 </p>
+<p align="center">
+  <a href="https://github.com/r3dprojects/support.swyftpay.now/commits/main"><img src="https://img.shields.io/github/last-commit/r3dprojects/support.swyftpay.now?label=last%20activity" alt="last activity"></a>
+  <a href="https://github.com/r3dprojects/support.swyftpay.now/issues"><img src="https://img.shields.io/github/issues/r3dprojects/support.swyftpay.now" alt="open issues"></a>
+  <a href="https://github.com/r3dprojects/support.swyftpay.now/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/r3dprojects/support.swyftpay.now?color=success" alt="closed issues"></a>
+  <a href="https://status.swyftec.com"><img src="https://img.shields.io/badge/status-status.swyftec.com-blue" alt="platform status"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/r3dprojects/support.swyftpay.now?label=docs%20license" alt="docs license"></a>
+</p>
 
 ---
 
