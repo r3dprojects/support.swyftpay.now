@@ -2,7 +2,7 @@
   <img src="assets/swyftpay-brand.svg" alt="swyftpay.now" width="280">
 </p>
 <p align="center">
-  <strong>Card-not-present payment terminal for Irish micro-merchants.</strong><br>
+  <strong>Card-not-present payment terminal for micro-merchants.</strong><br>
   Go &nbsp;·&nbsp; Stripe &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Caddy &nbsp;·&nbsp; Docker Swarm
 </p>
 
@@ -18,7 +18,7 @@ This repository is the **public issue tracker** for [swyftpay.now](https://swyft
 
 ## About swyftpay.now
 
-swyftpay.now is a hosted, card-not-present payment terminal built for Irish micro-merchants — sole traders, market vendors, pop-ups, and small service businesses that need to accept payments without the overhead of traditional POS or complex payment integrations.
+swyftpay.now is a hosted, card-not-present payment terminal built for micro-merchants — sole traders, market vendors, pop-ups, and small service businesses that need to accept payments without the overhead of traditional POS or complex payment integrations.
 
 Merchants get a clean, mobile-optimised checkout hosted on a subdomain of their choosing, powered by Stripe. No app to install, no hardware to buy. Customers pay by card or Apple/Google Pay directly from a browser.
 
@@ -40,7 +40,7 @@ Current status: [status.swyftec.com](https://status.swyftec.com)
 | Payments | Stripe (card, Apple Pay, Google Pay) |
 | Database | PostgreSQL |
 | Reverse proxy | Caddy (automatic TLS) |
-| Deployment | Docker Swarm · Hetzner VPS |
+| Deployment | Docker Swarm |
 
 ---
 
