@@ -1,0 +1,31 @@
+name: Question
+description: Ask a question about using swyftpay.now
+title: "[Question]: "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before asking here, please check [faq.swyftec.com](https://faq.swyftec.com) — it may already be answered there.
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: What would you like to know?
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Anything else that would help us give a useful answer?
+
+  - type: checkboxes
+    id: preflight
+    attributes:
+      label: Before submitting
+      options:
+        - label: I checked faq.swyftec.com and did not find an answer there
+          required: true

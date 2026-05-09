@@ -1,0 +1,76 @@
+name: Bug Report
+description: Report unexpected or broken behaviour in swyftpay.now
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug. Please fill in as much detail as you can — it helps us reproduce and fix the issue faster.
+
+  - type: input
+    id: summary
+    attributes:
+      label: What happened?
+      description: A brief description of the unexpected behaviour.
+      placeholder: "e.g. Payment confirmation never appeared after card was declined"
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How do we reproduce this? Please be specific.
+      placeholder: |
+        1. Navigate to the checkout page
+        2. Enter card details and submit
+        3. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behaviour
+      description: What did you expect to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behaviour
+      description: What actually happened? Screenshots or screen recordings are welcome.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      description: How badly does this affect you?
+      options:
+        - "Critical — cannot use the product at all"
+        - "High — major feature is broken"
+        - "Medium — inconvenient but I have a workaround"
+        - "Low — cosmetic or minor issue"
+    validations:
+      required: true
+
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: "Browser + OS or device type (e.g. Chrome 124 on macOS 14, iPhone 15 Safari)"
+      placeholder: "Chrome 124, macOS 14"
+
+  - type: checkboxes
+    id: preflight
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and this has not already been reported
+          required: true
+        - label: I have not included personally identifiable information (card numbers, customer data, etc.) in this report
+          required: true

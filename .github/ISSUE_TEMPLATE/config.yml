@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: FAQ
+    url: https://faq.swyftec.com
+    about: Browse frequently asked questions about swyftpay.now
+  - name: Platform status
+    url: https://status.swyftec.com
+    about: Check current platform status and incident history
+  - name: Email
+    url: mailto:info@swyftec.com
+    about: Contact us directly for account or sensitive issues
