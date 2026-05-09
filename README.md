@@ -6,11 +6,11 @@
   Go &nbsp;·&nbsp; Stripe &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Caddy &nbsp;·&nbsp; Docker Swarm
 </p>
 <p align="center">
-  <a href="https://github.com/r3dprojects/support.swyftpay.now/commits/main"><img src="https://img.shields.io/github/last-commit/r3dprojects/support.swyftpay.now?label=last%20activity" alt="last activity"></a>
-  <a href="https://github.com/r3dprojects/support.swyftpay.now/issues"><img src="https://img.shields.io/github/issues/r3dprojects/support.swyftpay.now" alt="open issues"></a>
-  <a href="https://github.com/r3dprojects/support.swyftpay.now/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/r3dprojects/support.swyftpay.now?color=success" alt="closed issues"></a>
-  <a href="https://status.swyftec.com"><img src="https://img.shields.io/badge/status-status.swyftec.com-blue" alt="platform status"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/r3dprojects/support.swyftpay.now?label=docs%20license" alt="docs license"></a>
+  <a href="https://github.com/r3dprojects/support.swyftpay.now/commits/main"><img src="https://img.shields.io/github/last-commit/r3dprojects/support.swyftpay.now?label=last%20activity&style=for-the-badge&labelColor=111827&color=06b6d4" alt="last activity"></a>&nbsp;&nbsp;
+  <a href="https://github.com/r3dprojects/support.swyftpay.now/issues"><img src="https://img.shields.io/github/issues/r3dprojects/support.swyftpay.now?style=for-the-badge&labelColor=111827&color=db2777" alt="open issues"></a>&nbsp;&nbsp;
+  <a href="https://github.com/r3dprojects/support.swyftpay.now/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/r3dprojects/support.swyftpay.now?style=for-the-badge&labelColor=111827&color=06b6d4" alt="closed issues"></a>&nbsp;&nbsp;
+  <a href="https://status.swyftec.com"><img src="https://img.shields.io/badge/platform-status.swyftec.com?style=for-the-badge&labelColor=111827&color=db2777" alt="platform status"></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/license/r3dprojects/support.swyftpay.now?style=for-the-badge&labelColor=111827&color=1e293b&label=docs" alt="docs license">
 </p>
 
 ---
