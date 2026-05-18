@@ -39,18 +39,6 @@ Current status: [status.swyftec.com](https://status.swyftec.com)
 
 ---
 
-## Stack at a glance
-
-| Layer | Technology |
-|---|---|
-| API / services | Go |
-| Payments | Stripe (card, Apple Pay, Google Pay) |
-| Database | PostgreSQL |
-| Reverse proxy | Caddy (automatic TLS) |
-| Deployment | Docker Swarm |
-
----
-
 ## Getting help
 
 | I want to... | Where to go |
